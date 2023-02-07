@@ -18,3 +18,15 @@ a {
 * {
   box-sizing: border-box;
 }
+.formUser{
+  .formUser_input{
+      border: 2px solid black;
+      margin: 30px;
+  }
+}
+.table{
+  .tableHead{
+    display: flex;
+    gap: 20px;
+  }
+}
